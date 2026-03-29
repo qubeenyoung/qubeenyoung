@@ -8,6 +8,9 @@
 
 ## About
 
+시스템 레벨부터 AI까지, 성능과 효율을 고민하는 개발자입니다.  
+ETRI 연구실에서 3D Gaussian Splatting CUDA 파이프라인 최적화를 수행했으며,  
+GPU 가속 연산과 온디바이스 AI 시스템에 관심이 있습니다.
 
 ---
 
@@ -40,9 +43,9 @@
 
 | Project | Description | Role | Stack |
 |--------|-------------|------|-------|
-| [GlucoBeat](https://github.com/GlucoBeatProject) | 인공췌장 시스템 — RL + 룰 기반 하이브리드 혈당 제어 | AI | Python, RL |
+| [GlucoBeat](https://github.com/GlucoBeatProject) | 인공췌장 시스템 — RL + 규칙 기반 하이브리드 혈당 제어 | AI | Python, RL |
 | [서강첫차](https://github.com/FirstCarSogang) | AI 기반 친구 매칭 서비스 | CV | Python, CV |
-| Classi4 | IoT 스마트팜 플랫폼 (비공개) | AI | Python, IoT |
+| [4과나무](https://github.com/1bin01/classi4U) | IoT 스마트팜 — YOLOv11 작물 탐지 + 협동로봇 제어 | AI, CV | Python, YOLO, Modbus |
 
 ---
 
