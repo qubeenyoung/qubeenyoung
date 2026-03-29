@@ -49,16 +49,6 @@ GPU 가속 연산과 온디바이스 AI 시스템에 관심이 있습니다.
 
 ---
 
-## Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=qubeenyoung&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-
-  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=qubeenyoung&layout=compact&theme=default&hide_border=true&langs_count=6" />
-</div>
-
----
-
 ## Contact
 
 [qubeen0@gmail.com](mailto:qubeen0@gmail.com) · [LinkedIn](https://www.linkedin.com/in/%EC%86%8C%EC%98%81-%EC%9D%B4-aa3944283/)
