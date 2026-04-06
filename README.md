@@ -3,15 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=555555&center=true&vCenter=true&width=500&lines=Computer+Science+%40+Sogang+Univ.;GPU+%2F+CUDA+Optimization;On-device+AI+%7C+Systems+Programming)](https://git.io/typing-svg)
 
 </div>
-
----
-
-## About
-
-시스템 레벨부터 AI까지, 성능과 효율을 고민하는 개발자입니다.  
-ETRI 연구실에서 3D Gaussian Splatting CUDA 파이프라인 최적화를 수행했으며,  
-GPU 가속 연산과 온디바이스 AI 시스템에 관심이 있습니다.
-
 ---
 
 ## Skills
